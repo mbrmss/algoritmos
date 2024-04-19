@@ -1,1 +1,4 @@
 O Python é uma linguagem de programação de alto nível e que tem como principal princípio permitir uma alta legibilidade de código através de uma sintaxe simples, porém, poderosa e que permite que programadores desenvolvam suas soluções utilizando poucas linhas de código.
+
+INICIANDO INSTALAÇÃO...
+Acesse <https://www.python.org/downloads/release/python-387/> para realizar o download do instalador do Python na versão 3.8.
