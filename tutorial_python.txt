@@ -16,3 +16,8 @@ Devido a sintaxe simples, um código escrito em Python geralmente é menor e mai
 O Python pode ser utilizado no seu próprio computador, executando os programas pelo terminal de comando por alguma das implementações disponíveis, como CPython ou PyPy.
 
 Pela sua versatilidade, também serve como uma linguagem de scripts para aplicações web rodando do lado do servidor, e como ferramenta para desenvolvimento de plugins que expandem as funcionalidades de outros programas. Nas áreas de ciências, Python é bastante utilizado em bibliotecas matemáticas como NumPy e SciPy, e também serve como base de muitos projetos de inteligência artificial e aprendizado de máquina.
+
+O que é uma virtualenv?
+Como dito acima, um problema muito comum é quando precisamos utilizar diversas versões de uma mesma biblioteca em diferentes projetos Python. Isso pode acarretar em conflitos entre as versões e muita dor de cabeça para o desenvolvedor. Para resolver este problema, o mais correto é a criação de um ambiente virtual para cada projeto.
+
+Basicamente, um ambiente virtual empacota todas as dependências que um projeto precisa e armazena em um diretório, fazendo com que nenhum pacote seja instalado diretamente no sistema operacional. Sendo assim, cada projeto pode possuir seu próprio ambiente e, consequentemente, suas bibliotecas em versões específicas.
