@@ -1,0 +1,13 @@
+O QUE É VSCODE?
+O Visual Studio Code é um editor de código criado pela Microsoft e que tem uma grande adoção pelas comunidades de diversas linguagens e tecnologias.
+
+INSTALAÇÃO 
+A instalação no Windows é relativamente simples, basta acessar o site oficial do Visual Studio Code e fazer o Download da sua última versão, clicando no botão "Download for Windows".
+
+Em seguida, execute o instalador baixado e siga as instruções na tela, não esqueça de marcar a opção "Add to Path" para adicionar o Visual Studio Code nas variáveis de ambiente.
+
+
+Finalizada a instalação, feche todos os terminais abertos e abra um novo (Power Shell ou Windows Terminal) e digite o comando abaixo.
+
+code --version
+Se tudo ocorrer como esperado, você verá a versão do Visual Studio Code instalada em sua máquina e estará tudo pronto para prosseguir.
