@@ -8,3 +8,11 @@ Clique com o botão direito em cima do instalador.
 Clique na opção “Executar como Administrador”.
 Com o instalador aberto tenha a certeza de ter marcado as opções “Add Python 3.8 to PATH” para que o comando python fique disponível.
 Por fim clique em “Install Now” e siga o processo padrão de instalação de programas no Windows (next, next, next, finish).
+
+Como funciona?
+
+Devido a sintaxe simples, um código escrito em Python geralmente é menor e mais legível se comparado com outras linguagens, como C++ ou PHP. Há menos exigências “gramaticais”, como parênteses em estruturas de seleção ou ponto-e-vírgula no fim da linha, e o código é estruturado com base em espaços em brancos.
+
+O Python pode ser utilizado no seu próprio computador, executando os programas pelo terminal de comando por alguma das implementações disponíveis, como CPython ou PyPy.
+
+Pela sua versatilidade, também serve como uma linguagem de scripts para aplicações web rodando do lado do servidor, e como ferramenta para desenvolvimento de plugins que expandem as funcionalidades de outros programas. Nas áreas de ciências, Python é bastante utilizado em bibliotecas matemáticas como NumPy e SciPy, e também serve como base de muitos projetos de inteligência artificial e aprendizado de máquina.
