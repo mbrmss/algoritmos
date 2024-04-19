@@ -21,3 +21,10 @@ O que é uma virtualenv?
 Como dito acima, um problema muito comum é quando precisamos utilizar diversas versões de uma mesma biblioteca em diferentes projetos Python. Isso pode acarretar em conflitos entre as versões e muita dor de cabeça para o desenvolvedor. Para resolver este problema, o mais correto é a criação de um ambiente virtual para cada projeto.
 
 Basicamente, um ambiente virtual empacota todas as dependências que um projeto precisa e armazena em um diretório, fazendo com que nenhum pacote seja instalado diretamente no sistema operacional. Sendo assim, cada projeto pode possuir seu próprio ambiente e, consequentemente, suas bibliotecas em versões específicas.
+
+Instalando a virtualenv
+A instalação de uma virtualenv é feita utilizando o pip, gerenciador de pacotes do Python. Já falamos sobre o PIP em um outro artigo aqui do blog. Caso você não saiba do que se trata ou como instalá-lo, sugiro você dar uma passada por lá :) Após instalar o pip, utilizamos o comando abaixo para instalar o pacote virtualenv em nosso computador:
+
+Copiar
+pip install virtualenv
+Feito isso, o pacote estará instalado e pronto para ser utilizado. Agora já podemos criar e gerenciar nossos ambientes virtuais.
