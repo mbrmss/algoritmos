@@ -11,3 +11,10 @@ Finalizada a instalação, feche todos os terminais abertos e abra um novo (Powe
 
 code --version
 Se tudo ocorrer como esperado, você verá a versão do Visual Studio Code instalada em sua máquina e estará tudo pronto para prosseguir.
+
+REQUISITOS
+ Visual Studio Code tornou-se famoso por sua leveza na execução, sendo um dos editores de código mais leve e rápidos que temos no mercado.
+
+Desta forma, os requisitos de hardware são baixos, porém recomendamos uma máquina com pelo menos Intel Core i3, Dual Core, com 8GB de Ram e no mínimo 128GB de disco.
+
+Estas recomendações são baseadas na execução dos nossos cursos, então caso seu cenário seja diferente, elas podem varias.
